@@ -1,8 +1,7 @@
 # Coding-Algoritms-Projects
 
-<br/>
-These are my project for "Programming Techniques" University Course. <br/>
-The aloritms used to solve those problems are: <br/>
+These are my project for "Programming Techniques" University Course. 
+The aloritms used to solve those problems are: 
 - Greedy 
 - Backtracking 
 - Divide et Impera 
